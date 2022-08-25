@@ -33,7 +33,7 @@ postgres=# \c database_name
 ```
 3. Import the script.sql file
 ```console
-database_name=#\i path_to_script.sql
+database_name=# \i path_to_script.sql
 
 
 ## Sources
